@@ -1,0 +1,5 @@
+
+SECRET_KEY = "56GHDJK332"
+SQLALCHEMY_DATABASE_URI = "sqlite:///data.db"
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+SQLAlchemy_HOST= 'localhost'
